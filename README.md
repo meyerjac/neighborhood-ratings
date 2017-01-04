@@ -31,7 +31,7 @@ _You will need the following things properly installed on your computer._
 
 ## Installation
 
-* `git clone https://github.com/amcmerrell/neighborhood-ratings`
+* `git clone https://github.com/meyerjac/neighborhood-ratings`
 * `cd neighborhood-ratings`
 * `npm install`
 * `bower install`
@@ -50,7 +50,7 @@ _You will need the following things properly installed on your computer._
 _There are currently no known bugs for this project. If you discover any issues, you can reach me via the contact details below._
 
 ## Support and contact details
-_If you have any questions about this project, please contact Andrew at andrew.m.merrell@gmail.com or Stephen at spburden@hotmail.com_
+_If you have any questions about this project, please contact me, Jackson Meyer at jackson.meyer7@gmail.com_
 
 ## Technologies Used
 * _JavaScript_
@@ -66,4 +66,4 @@ _If you have any questions about this project, please contact Andrew at andrew.m
 
 *This webpage is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Stephen Burden, Eric Krause, Andrew Merrell, and Jackson Meyer_**
+Copyright (c) 2016 **_Jackson Meyer, Stephen Burden, Eric Krause, and Andrew Merrell_**
